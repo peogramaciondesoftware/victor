@@ -1,5 +1,7 @@
 <html>
-<BODY BGCOLOR="BLUE">
+<title>
+Hola ! 
+</title>
   <body>
   esteban,
    </body>
