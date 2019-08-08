@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Ingresando a la sala de cine'
+4
+1
+45
+'Por favor muestre su Documento de Identidad'
+4
+1
+17
+'Ingrese su edad'
+5
+1
+1
+c
+7
+0
+1
+5
+c>=18
+4
+1
+42
+'Solo puede ingresar a la sala de menores'
+13
+4
+1
+39
+'Puede ingresar a la sala para mayores'
+13
+1
