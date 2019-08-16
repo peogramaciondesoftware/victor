@@ -1,0 +1,9 @@
+Entero i,p
+inicio
+	i<-5
+	para i<-1 hasta 15 haga
+	Escriba "silencio"
+	p<-i+1
+	Escriba p
+ fin para
+fin

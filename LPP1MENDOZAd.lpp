@@ -1,0 +1,11 @@
+Entero i,p
+inicio
+	i<-5
+	mientras i<15 haga
+	llamar nueva_linea
+	Escriba "silencio"
+	llamar nueva_linea
+    i<-i+1
+	Escriba i
+ fin mientras
+fin
